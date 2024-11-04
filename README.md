@@ -6,4 +6,4 @@ To answer the following questions:
 3. Which products are sold most and least often? Which drive the most revenue for the business?
 ## Resources
 Dataset from Maven Analytics Playground
-- <a href="https://maven-datasets.s3.amazonaws.com/Coffee+Shop+Sales/Coffee+Shop+Sales.zip"Dataset</a>
+- <a href="https://maven-datasets.s3.amazonaws.com/Coffee+Shop+Sales/Coffee+Shop+Sales.zip">Dataset</a>
